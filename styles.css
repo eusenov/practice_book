@@ -1,0 +1,332 @@
+/* td{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+} */
+/* игра угадай ячейку */
+/* .before-click{
+    background: transparent;
+}
+.green{
+    background: transparent;
+}
+.red_active{
+    background: red;
+}
+.green_active{
+    background: green;
+}
+button{
+    font-size: 36px;
+} */
+
+/* Экранная клавиатура */
+/* table{
+}
+td{
+    text-align: center;
+    padding: 8px;
+    font-size: 18px;
+}
+p{
+    height: 100px;
+    font-size: 24px;
+}
+.caps{
+    font-size: 36px;
+} */
+
+/* календарь */
+/* .buttons{
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+ul{
+    display: flex;
+    gap: 24px;
+}
+.red-backgrnd{
+    background-color: red;
+} */
+
+/* Поиск исторических события на JavaScript */
+/* * {
+	box-sizing: border-box;
+}
+#parent {
+	margin: 0 auto;
+	width: 600px;
+}
+#input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+#table {
+	width: 100%;
+}
+.td_active {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid black;
+} */
+
+/* Гороскоп на JavaScript */
+/* .buttons{
+    display: flex;
+    flex-direction: column;
+} */
+
+/* Сайт предсказаний на JavaScript */
+/* #parent {
+	text-align: center;
+}
+#parent > * {
+	margin-bottom: 10px;
+}
+
+#timer {
+	font-size: 18px;
+}
+#text {
+	font-size: 17px;
+	font-style: italic;
+}
+
+button {
+	padding: 5px 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+button:not(.active) {
+	display: none;
+} */
+
+/* Автодополнение на JavaScript */
+/* #parent {
+	position: relative;
+}
+#elem {
+	padding: 5px;
+	font-size: 18px;
+}
+
+#parent ul {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: white;
+}
+#parent li {
+	border: 1px solid gray;
+	font-size: 18px;
+	padding: 5px;
+}
+#parent li:hover {
+	border: 1px solid black;
+	cursor: pointer;
+} */
+
+/* Спойлер на JavaScript */
+/* .spoiler:not(.active) {
+	display: none;
+} */
+
+/* Вкладки на JavaScript */
+/* #parent {
+	margin: 0 auto;
+	width: 400px;
+}
+
+.menu a {
+	margin-right: 5px;
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	border: 1px solid gray;
+}
+.menu a:hover {
+	background: #f8f8f8;
+}
+.menu a.active {
+	border-color: transparent;
+	background: #f2f2f2;
+}
+
+.tabs .tab:not(.active) {
+	display: none;
+}
+.tabs .tab {
+	padding: 10px;
+	background: #f2f2f2;
+	height: 300px;
+} */
+
+/* Аккордеон на JavaScript */
+/* #parent {
+	margin: 0 auto;
+	width: 400px;
+}
+.tab {
+	margin-bottom: 10px;
+}
+
+.tab .link a {
+	display: block;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	background: #f8f8f8;
+	border: 1px solid gray;
+}
+.tab .link:hover a {
+	background: #f2f2f2;
+}
+
+.tab:not(.active) .text {
+	display: none;
+}
+.tab .text {
+	border: 1px dashed gray;
+	border-top: none;
+	
+	padding: 10px;
+	height: 300px;
+} */
+
+/* Игра в города на JavaScript */
+/* #message{
+    width: 200px;
+}
+#robot-field{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+} */
+
+/* Чеклист на JavaScript */
+
+/* Калькулятор продуктов на JavaScript */
+/* * {
+	box-sizing: border-box;
+}
+#parent {
+	margin: 0 auto;
+	width: 500px;
+}
+
+#form {
+	display: flex;
+	margin-bottom: 15px;
+}
+#form input {
+	padding: 8px;
+	width: 24%;
+	margin: 0 0.5% 10px 0.5%;
+}
+
+h2 {
+	margin-top: 0;
+	margin-bottom: 7px;
+}
+
+#table {
+	width: 100%;
+	margin-bottom: 10px;
+}
+#table td, #table th {
+	padding: 8px;
+	text-align: center;
+	border: 1px solid black;
+}
+#table td.remove {
+	color: blue;
+	cursor: pointer;
+	text-decoration: underline;
+}
+#table td.remove:hover {
+	text-decoration: none;
+}
+
+#result {
+	text-align: right;
+	margin-right: 10px;
+} */
+
+/* Тест с вопросами и ответами в HTML коде на JavaScript */
+/* .right {
+	border: 1px solid green;
+	outline: none;
+}
+.wrong {
+	border: 1px solid red;
+	outline: none;
+}
+button{
+	margin-top: 20px;
+} */
+
+/* Игра крестики-нолики на JavaScript */
+/* #field td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.red-cross{
+	background: url(img/red-cross.png) no-repeat center;
+	background-size: 80%;
+}
+.blue-circle{
+	background: url(img/blue-circle.png) no-repeat center;
+    background-size: 42px 42px;
+} */
+
+/* Игра смена цветов на JavaScript */
+/* #field td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+}
+.red {
+	background: red;
+}
+.green {
+	background: green;
+}
+.blue {
+	background: blue;
+} */
+
+/* Календарь на JavaScript */
+/* td{
+	padding: 5px 12px;
+	border: 1px solid black;
+	text-align: center;
+	width: 42px;
+	height: 42px;
+}
+.bold{
+	font-weight: bold;
+}
+.calendar{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 100px auto auto 0;
+	width: 500px;
+}
+.table-div{
+	display: flex;
+	align-items: center;
+	gap: 36px;
+} */
